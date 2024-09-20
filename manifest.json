@@ -1,0 +1,8 @@
+{
+    "name": "Gambling - for free",
+    "short_name": "Gambling",
+    "theme_color": "#9000ff",
+    "background_color": "#050d2a",
+    "display": "browser",
+    "start_url": "/index.html"
+}
